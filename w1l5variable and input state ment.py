@@ -1,0 +1,5 @@
+print("hellow,type in your namew")
+n=str(input())
+print("how are you") 
+p=str(input())
+print("hello",n,"good to know",p)
